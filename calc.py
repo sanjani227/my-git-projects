@@ -1,6 +1,6 @@
-def add(a, b):
-    return a + b
+def multiply(a, b):
+    return a * b
 
 # Example usage
-result = add(3, 5)
-print("Sum:", result)
+result = multiply(3, 5)
+print("Multiplication:", result)
